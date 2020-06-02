@@ -1,25 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Who am I? Why did I apply to Outreachy?"
 date:   2020-06-01 16:29:49 -0500
-categories: jekyll update
+categories: outreachy
+permalink: "/Who-am-I-Why-did-I-apply-to-Outrechy"
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+My name is Lisset, I'm from Mexico, I'm 20 years old, I'm studying Telematics Engineering, I love animals, music, read, and right now I'm an Outreachy Intern with Mozilla.
+There are many things that make us take decisions. One big is our core values.
+After thinking a lot about it, I decided that mine mainly 3 are: 
+`Learning, Compassion, and Community.`
+One of the activities that I most love is to learn, for that reason, I like reading, I have always enjoyed the school, take courses and all of that sort of nerdy stuff. I just can't be without learning new things. Also when I listen to people's experiences or stories I learn from it. It's something fantastic that you can learn from wherever you see.
+Compassion is as a strong feeling of sympathy and sadness for the suffering or bad luck of others and a wish to help them. And that is something that has moved me since I was a child. I used to call it Empathy but now I can see that is better defined by this. I've always wanted to understand and support people and animals. Sometimes I think it's my own bad luck be moved by this value because if you see with attention the world is hard wherever you see, too. And most of the time I feel I can't really do something. But I try to do as much as I can and when I have the opportunity to do something it's really great happiness and satisfaction.
+And Community is very important to me, I think that the most important of persons is that we move on community and when you realize it and you feel like part of one, is when the better things of persons came, we help us and support each other just for the wellness of all. I like share what I know, and help as I can, because I think that we are not just individuals we are part of something and do much more when we move us together.
+After saying this is obvious that what mainly motivated me to apply to Outreachy was the opportunity to learn, learn from working in a real and big OpenSource project, mentored, and if it wasn't sufficient also paid. And there's more it is made to supports diversity. When I discovered it I thought it couldn't be more made for me, at least I must try.
+Besides I really like de concept of the Open Source, I think it's something really valuable on the internet, give free source and have the opportunity to collaborate to projects to other people really are gonna use, but before my Outreachy application started I were afraid of didn't have the skills to could contribute.
+Now that I'm here I can't finish believing that I achieve it. And I really can confirm that it's so much more than what I saw at the beginning. It is also an opportunity to become more confident, meet people from all around the world, being part of a community that really cares about the people and now that we are living hard times it can be seen more. On both in Outreachy and Mozilla, and I really proud of being part of this communities and can learn from all these fantastic people.
