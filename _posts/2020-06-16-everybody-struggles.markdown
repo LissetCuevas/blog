@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Everybody struggles!"
-date:   2020-06-01 16:29:49 -0500
+date:   2020-06-16 14:14:49 -0500
 categories: outreachy
 permalink: "/everybody-struggles"
 ---
