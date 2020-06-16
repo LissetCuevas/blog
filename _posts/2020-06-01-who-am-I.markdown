@@ -3,7 +3,7 @@ layout: post
 title:  "Who am I? and Why did I apply to Outreachy?"
 date:   2020-06-01 16:29:49 -0500
 categories: outreachy
-permalink: "/Who-am-I-Why-did-I-apply-to-Outrechy"
+permalink: "/who-am-i-why-did-i-apply-to-outrechy"
 ---
 My name is Lisset, I'm from Mexico, I'm 20 years old, I'm studying Telematics Engineering, I love animals, music, read, and right now I'm an Outreachy Intern with Mozilla.
 
