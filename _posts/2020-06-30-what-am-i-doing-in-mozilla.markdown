@@ -7,7 +7,7 @@ permalink: "/what-am-i-doing-in-mozilla"
 ---
 This summer I’m an intern in <a href="https://www.mozilla.org/en-US/exp/">Mozilla</a> thanks to <a href="https://www.outreachy.org/">Outreachy</a>. I’m working with the BMO team, the team in charge of Bugzilla.
 
-<a href="https://bugzilla.mozilla.org/home">Bugzilla</a> is the Bug Tracker from Mozilla. So if you find any bug in any Mozilla product, or also you would like an enhancement you report it in Bugzilla and then the team in charge of the Product knows about it and can't fix it or a contributor can look for something which they can help. 
+<a href="https://bugzilla.mozilla.org/home">Bugzilla</a> is the Bug Tracker from Mozilla. So if you find any bug in any Mozilla product, or also you would like an enhancement you report it in Bugzilla and then the team in charge of the Product knows about it and can fix it or a contributor can look for something which they can help. 
 
 And the BMO team works making that all in Bugzilla works, solving their own bugs and making it better. I think this product is really important because it helps and is used by all other Mozilla teams.
 
