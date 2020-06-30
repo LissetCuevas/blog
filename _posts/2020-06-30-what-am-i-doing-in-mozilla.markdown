@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What am I doing in Mozilla?"
-date:   2020-06-30 143:37:49 -0500
+date:   2020-06-30 14:19:49 -0500
 categories: outreachy
 permalink: "/what-am-i-doing-in-mozilla"
 ---
