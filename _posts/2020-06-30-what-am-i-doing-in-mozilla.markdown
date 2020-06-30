@@ -15,7 +15,7 @@ What I’m doing it’s connecting Bugzilla to the world. I mean I’m building 
 
 In this case, when a bug from a product (that the user choose too) has a change and/or it’s created, Bugzilla will send a message with all the info about that bug (post request) to the user URL. 
 
-<h3>And who wants that?</h3>
+<h4>And who wants that?</h4>
 
 Well, now they can receive notifications about this by email or in your Bugzilla profile. And if you want something in a “low level” you must make a request for a very specific Bug and Bugzilla sends you that bug and you can manipulate the information. 
 
