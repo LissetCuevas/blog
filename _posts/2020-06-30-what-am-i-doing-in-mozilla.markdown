@@ -11,7 +11,7 @@ This summer I’m an intern in <a href="https://www.mozilla.org/en-US/exp/">Mozi
 
 And the BMO team works making that all in Bugzilla works, solving their own bugs and making it better. I think this product is really important because it helps and is used by all other Mozilla teams.
 
-What I’m doing it’s connecting Bugzilla to the world. I mean I’m building the Bugzilla webhooks. A webhook is an HTTP request that is sent to an URL that the user chooses when a certain event (that the user choose too) happens. It could be seen as a personalized notification at a low level.
+What I’m doing is connecting Bugzilla to the world. I mean I’m building the Bugzilla webhooks. A webhook is an HTTP request that is sent to an URL that the user chooses when a certain event (that the user choose too) happens. It could be seen as a personalized notification at a low level.
 
 In this case, when a bug from a product (that the user choose too) has a change and/or it’s created, Bugzilla will send a message with all the info about that bug (post request) to the user URL. 
 
