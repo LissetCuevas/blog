@@ -17,7 +17,7 @@ In this case, when a bug from a product (that the user choose too) has a change 
 
 <h4>And who wants that?</h4>
 
-Well, now you can receive notifications about this by email or in their Bugzilla profile. And if you want something in a “low level” you must make a request for a very specific Bug and Bugzilla sends you that bug and you can manipulate the information. 
+Well, now you can receive notifications about this by email or in your Bugzilla profile. And if you want something in a “low level” you must make a request for a very specific Bug and Bugzilla sends you that bug and you can manipulate the information. 
 
 So the good thing of this is that with webhooks you can receive that message and use the information in other sites, like JIRA (another bug tracker) so you can make that when a bug it’s created automatically is sent the info about it, and then you can manage it and create a new bug in another site, or send it to your team chat for example Slack (that is widely used in Mozilla).
 
