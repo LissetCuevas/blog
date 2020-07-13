@@ -19,7 +19,7 @@ So I started reviewing again everything that was given to me and writing what I 
 
 After that, she answered me and I could correct something, work better, and left the feeling of doing everything wrong behind. 
 
-Another cause of that feeling was due to of the thought of only one way of correct work that I had from the school.
+Another cause of that feeling was due to the thought that there is only one correct way that I had from the school.
  
 This is my first job experience and at the beginning, I felt my mentors more like my teachers expecting score my work and disappointed if what I'd do wasn't what they thought or expect, and now I feel them what they really are, my mentors, experienced people that are there to help me achieve the goals of the project and part of my team.
 
