@@ -10,7 +10,7 @@ title: Liss's Blog
 email: lisset.cuevasj@gmail.com 
 email2: lcuevas@mozilla.com
 description: > # this means to ignore newlines until "baseurl:"
-  Mexican, Engineering student, Feminist, Outreachy Intern with Mozilla <3
+  Mexican, Engineering student, Feminist, Outreachy Intern with Mozilla ❤
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://lissetcuevas.github.io/blog/" # the base hostname & protocol for your site
 twitter_username: lisscuevass
