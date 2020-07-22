@@ -5,8 +5,6 @@ date:   2020-07-14 18:30:49 -0500
 categories: outreachy
 permalink: "/half-of-the-internship"
 ---
-<p align="center">▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░ 50%</p>
-
 After a beginning where I though that I was doing everything wrong, the time goes so fast, and now I'm at half of the internship with good progress, and feeling really more confident. 
 
 Originally in my application I only recorded in my project timeline the time that my mentors and I would be able to work, because part of my internship was to define the project plan.
