@@ -23,7 +23,7 @@ Another cause of that feeling was due to the thought that there is only one corr
  
 This is my first job experience and at the beginning, I felt my mentors more like my teachers expecting score my work and disappointed if what I'd do wasn't what they thought. And now I feel them what they really are: my mentors, experienced people that are there to help me achieve the goals of the project and part of my team.
 
-So <b>what I've learned until now and would like to say especially to students interns</b> it's: 
+So <b>what I've learned until now and would like to say especially to students interns</b> is: 
 <ul>
 <li>Mentors are part of your team and are there to help you, not to score you, aren't teachers.</li>
 <li>"Rubber duck" debugging could help you a lot to unstuck yourself and to formulate better questions to ask. </li>
