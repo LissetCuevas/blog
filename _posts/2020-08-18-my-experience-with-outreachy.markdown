@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My experience with Outreachy"
-date:   2020-08-18 20:00:49 -0500
+date:   2020-08-18 18:00:49 -0500
 categories: outreachy
 permalink: "/my-experience-with-outreachy"
 ---
