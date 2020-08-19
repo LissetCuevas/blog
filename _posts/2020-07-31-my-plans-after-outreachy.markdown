@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Who am I? and Why did I apply to Outreachy?"
+title:  "My plans after my Outreachy Internship"
 date:   2020-07-31 20:29:49 -0500
 categories: outreachy
 permalink: "/my-plans-after-outreachy-internship"
